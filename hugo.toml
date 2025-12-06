@@ -60,7 +60,7 @@ style = "github-dark"
   name = "CNBlog"
   icon = "fa-brands fa-blogger fa-2x"
   weight = 3
-  url = "https://www.cnblogs.com/ipixeloldc"
+  url = "https://my.ipixeloldc.cn/"
 
 # Menu links
 [[menu.main]]
