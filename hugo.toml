@@ -23,11 +23,12 @@ style = "github-dark"
   avatarurl = "img/avatar.png"
   #gravatar = "john.doe@example.com"
 
-  faviconSVG = "/img/favicon.svg"
+  #faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
+  touchIcon = "/images/apple-touch-icon.png"
 
-  since = 2019
+  since = 2016
 
   enableTwemoji = true
 
