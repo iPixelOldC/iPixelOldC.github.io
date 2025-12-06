@@ -71,3 +71,7 @@ style = "github-dark"
   name = "About"
   weight = 2
   url = "https://my.ipixeloldc.cn/about/"
+[[menu.main]]
+  name = "Friends"
+  weight = 2
+  url = "https://my.ipixeloldc.cn/friends/"
