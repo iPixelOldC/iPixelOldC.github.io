@@ -7,7 +7,7 @@ on:
         # Runs At 14:15 on day-of-month 5.
         - cron: "15 14 5 * *"
     # Allows you to run this workflow manually from the Actions tab
-    workflow_dispatch:
+
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
