@@ -17,13 +17,13 @@ style = "github-dark"
 
 [params]
   author = "iPixelOldC"
-  info = "A Coder && Gamer(≧∇≦)ﾉ"
+  info = "A Coder && Gamer (≧∇≦)ﾉ"
   description = "A Funny Portfolio"
   keywords = "blog,developer,personal"
   avatarurl = "img/avatar.png"
   #gravatar = "john.doe@example.com"
 
-  #faviconSVG = "/img/favicon.svg"
+  faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
