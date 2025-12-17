@@ -60,17 +60,17 @@ style = "github-dark"
 [[params.social]]
   name = "BlueSky"
   icon = "fa-brands fa-bluesky fa-2x"
-  weight = 2
+  weight = 3
   url = "https://bsky.app/profile/ipixeloldc.bsky.social"
 [[params.social]]
   name = "Discord"
   icon = "fa-brands fa-discord fa-2x"
-  weight = 2
+  weight = 4
   url = "https://discordapp.com/users/ipixeloldc"
 [[params.social]]
   name = "MyBlog"
   icon = "fa-brands fa-blogger fa-2x"
-  weight = 3
+  weight = 5
   url = "https://blog.ipixeloldc.com/"
 
 # Menu links
