@@ -63,15 +63,15 @@ style = "github-dark"
   weight = 3
   url = "https://bsky.app/profile/ipixeloldc.bsky.social"
 [[params.social]]
+  name = "Discord"
+  icon = "fa-brands fa-discord fa-2x"
+  weight = 4
+  url = "https://discordapp.com/users/ipixeloldc"
+[[params.social]]
   name = "MyBlog"
   icon = "fa-brands fa-blogger fa-2x"
-  weight = 4
-  url = "https://blog.ipixeloldc.com/"
-[[params.social]]
-  name = "RSS"
-  icon = "fas fa-rss fa-2x"
   weight = 5
-  url = "https://blog.ipixeloldc.com/rss.xml"
+  url = "https://blog.ipixeloldc.com/"
 
 # Menu links
 [[menu.main]]
@@ -84,5 +84,10 @@ style = "github-dark"
   url = "https://blog.ipixeloldc.com/about/"
 [[menu.main]]
   name = "Friends"
-  weight = 2
+  weight = 3
   url = "https://blog.ipixeloldc.com/friends/"
+[[menu.main]]
+  name = "RSS"
+  icon = "fas fa-rss fa-2x"
+  weight = 4
+  url = "https://blog.ipixeloldc.com/rss.xml"
