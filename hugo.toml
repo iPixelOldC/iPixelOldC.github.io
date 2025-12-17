@@ -69,7 +69,7 @@ style = "github-dark"
   url = "https://blog.ipixeloldc.com/"
 [[params.social]]
   name = "RSS"
-  icon = "fa-brands fa-rss fa-2x"
+  icon = "fas fa-rss fa-2x"
   weight = 5
   url = "https://blog.ipixeloldc.com/rss.xml"
 
