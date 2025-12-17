@@ -1,4 +1,4 @@
-baseurl = "https://ipixeloldc.cn"
+baseurl = "https://ipixeloldc.com"
 title = "你好，这里是老C~"
 theme = "hugo-coder"
 languagecode = "en"
@@ -21,7 +21,7 @@ style = "github-dark"
   description = "A Funny Portfolio~"
   keywords = "blog,developer,personal,portfolio,ipixeloldc"
   avatarurl = "img/avatar.png"
-  license = '<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA-4.0</a><span> · </span><a>测试信息</a>'
+  license = '<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA-4.0</a><span> · </span><a>:D</a>'
   #gravatar = "john.doe@example.com"
 
   #faviconSVG = "/img/favicon.svg"
@@ -61,18 +61,18 @@ style = "github-dark"
   name = "CNBlog"
   icon = "fa-brands fa-blogger fa-2x"
   weight = 3
-  url = "https://my.ipixeloldc.cn/"
+  url = "https://blog.ipixeloldc.com/"
 
 # Menu links
 [[menu.main]]
   name = "Blog"
   weight = 1
-  url  = "https://my.ipixeloldc.cn/"
+  url  = "https://blog.ipixeloldc.com/"
 [[menu.main]]
   name = "About"
   weight = 2
-  url = "https://my.ipixeloldc.cn/about/"
+  url = "https://blog.ipixeloldc.com/about/"
 [[menu.main]]
   name = "Friends"
   weight = 2
-  url = "https://my.ipixeloldc.cn/friends/"
+  url = "https://blog.ipixeloldc.com/friends/"
