@@ -21,7 +21,7 @@ style = "github-dark"
   description = "A Funny Portfolio~"
   keywords = "blog,developer,personal,portfolio,ipixeloldc"
   avatarurl = "img/avatar.png"
-  license = '<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA-4.0</a><span> · </span><a>:D</a>'
+  license = '<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA-4.0</a><span> · </span><a href="https://blog.ipixeloldc.com/rss.xml">RSS</a>'
   #gravatar = "john.doe@example.com"
 
   #faviconSVG = "/img/favicon.svg"
@@ -86,8 +86,3 @@ style = "github-dark"
   name = "Friends"
   weight = 3
   url = "https://blog.ipixeloldc.com/friends/"
-[[menu.main]]
-  name = "RSS"
-  icon = "fas fa-rss fa-2x"
-  weight = 4
-  url = "https://blog.ipixeloldc.com/rss.xml"
