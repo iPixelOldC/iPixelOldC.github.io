@@ -66,7 +66,7 @@ jobs:
     # rsync的同步命令参数
             ARGS: "-avzr --delete"
     # Github workplace里生成的静态文件目录，即需要同步到远端VPS的文件/文件夹。
-            SOURCE: "./dist/"
+            SOURCE: "./public/"
     # VPS IP地址。也可以如同id_rsa私钥一样，托管在Github，然后采用动态参数，比如${{ secrets.SSH_IP }}
             REMOTE_HOST: 119.91.199.237
     # VPS默认用户名root。
